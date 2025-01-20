@@ -1,0 +1,6 @@
+scapy==2.4.5
+pyshark==0.4.3
+requests==2.28.1
+scikit-learn==1.1.2
+pybluez
+
