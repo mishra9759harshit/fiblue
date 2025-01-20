@@ -47,7 +47,7 @@ Got feedback? Found a bug? Wanna **collaborate and hack the system**? **Hit me u
 
 Big thanks to the **rockstar contributors** who helped make this tool more powerful! You can view the list of contributors on [GitHub](https://github.com/mishra9759harshit/fiblue.git).
 
-### **Dynamic Contributor Badge**:
+### **Contributors**:
 [![Contributors](https://contrib.rocks/image?repo=mishra9759harshit/fiblue)](https://github.com/mishra9759harshit/fiblue/graphs/contributors)
 
 ---
