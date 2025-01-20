@@ -1,12 +1,3 @@
-To make the README even more **Hackers-themed**, let's enhance the colors and badge styling, and make the text more engaging while keeping the focus on hacking and security.
-
-### Changes:
-1. **Badges with custom colors**: We'll use darker colors for badges to match the "hackers" theme.
-2. **Text Styling**: We'll modify the text for a more tech-savvy and engaging tone.
-3. **Design elements**: To make the whole theme feel more “underground” and hacker-like, we'll adjust the badge colors and styles.
-
-Here’s the updated **Hackers-themed** README:
-
 ---
 
 # **Bluetooth and WiFi Vulnerability Tester** 🕶️💻
