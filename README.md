@@ -34,7 +34,7 @@ Got feedback? Found a bug? Wanna **collaborate and hack the system**? **Hit me u
 
 ---
 
-## **Contributors** 💥
+## **Contributors** 
 
 Big thanks to the **rockstar contributors** who helped make this tool more powerful! You can view the list of contributors on [GitHub](https://github.com/mishra9759harshit/fiblue.git).
 
