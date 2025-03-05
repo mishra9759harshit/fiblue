@@ -106,7 +106,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](https://gi
 
 ---
 
-## **Badges** 🚨
 
 ![License](https://img.shields.io/badge/License-MIT-black) ![Status](https://img.shields.io/badge/Status-Active-green) ![Version](https://img.shields.io/badge/Version-1.0-yellow)
 
