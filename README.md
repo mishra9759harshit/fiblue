@@ -43,7 +43,7 @@ Big thanks to the **rockstar contributors** who helped make this tool more power
 
 ---
 
-## **How to Clone, Install Requirements, and Run the Program** 🏃‍♂️💨
+## **How to Clone, Install Requirements, and Run the Program**
 
 ### Clone the Repo
 
