@@ -111,7 +111,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](https://gi
 
 ---
 
-## **By Harshit** 🔥
+## **By Harshit** 
 
 > "It’s not about **breaking** into a system—it’s about **understanding** it from the inside out." – **securecoder**
 
